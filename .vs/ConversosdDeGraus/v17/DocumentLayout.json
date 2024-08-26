@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A7572-3428-42E4-95AA-BE55DE258DB3}|ConversosdDeGraus\\ConversosdDeGraus.csproj|c:\\users\\fchav\\source\\repos\\conversosddegraus\\conversosddegraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2A7572-3428-42E4-95AA-BE55DE258DB3}|ConversosdDeGraus\\ConversosdDeGraus.csproj|solutionrelative:conversosddegraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A7572-3428-42E4-95AA-BE55DE258DB3}|ConversosdDeGraus\\ConversosdDeGraus.csproj|C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\conversosddegraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C2A7572-3428-42E4-95AA-BE55DE258DB3}|ConversosdDeGraus\\ConversosdDeGraus.csproj|solutionrelative:conversosddegraus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2A7572-3428-42E4-95AA-BE55DE258DB3}|ConversosdDeGraus\\ConversosdDeGraus.csproj|c:\\users\\fchav\\source\\repos\\conversosddegraus\\conversosddegraus\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2A7572-3428-42E4-95AA-BE55DE258DB3}|ConversosdDeGraus\\ConversosdDeGraus.csproj|solutionrelative:conversosddegraus\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\ConversosdDeGraus\\Form1.cs",
+              "RelativeDocumentMoniker": "ConversosdDeGraus\\Form1.cs",
+              "ToolTip": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\ConversosdDeGraus\\Form1.cs",
+              "RelativeToolTip": "ConversosdDeGraus\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:20:25.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\ConversosdDeGraus\\Calcular.cs",
+              "RelativeDocumentMoniker": "ConversosdDeGraus\\Calcular.cs",
+              "ToolTip": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\ConversosdDeGraus\\Calcular.cs",
+              "RelativeToolTip": "ConversosdDeGraus\\Calcular.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:43:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\ConversosdDeGraus\\Form1.cs",
+              "RelativeDocumentMoniker": "ConversosdDeGraus\\Form1.cs",
+              "ToolTip": "C:\\Users\\fchav\\source\\repos\\ConversosdDeGraus\\ConversosdDeGraus\\Form1.cs [Projeto]",
+              "RelativeToolTip": "ConversosdDeGraus\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:09:27.539Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
